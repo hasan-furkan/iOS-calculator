@@ -13,7 +13,7 @@ body {
   margin-top: 5rem;
   display: grid;
   grid-template-columns: repeat(4, 10%);
-  grid-template-rows: repeat(6, 35px);
+  grid-template-rows: repeat(6, 85px);
   grid-gap: 0.5rem;
   justify-content: center;
 }
@@ -24,6 +24,7 @@ body {
   background-color: #1e1e1e;
   border-radius: 50%;
   text-align: center;
+  padding: 1.5rem 0;
   font-size: 1.5rem;
   color: #fff;
   cursor: pointer;
